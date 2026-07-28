@@ -1,0 +1,326 @@
+[
+  {
+    "text": "How do I handle deep linking in a React Native app so users can open specific screens from email links?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "My Vue 3 app with Pinia state management is leaking memory when users navigate between routes rapidly. Any debugging tips?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "What's the best way to implement server-side rendering for a Next.js app that needs to fetch data from multiple microservices at build time?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "How do I properly configure CSP headers in a Django app to prevent XSS while still allowing inline scripts for our legacy analytics?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Our SOC team detected suspicious PowerShell execution on several endpoints. What's the best way to investigate if this is Cobalt Strike beaconing?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "We're migrating from SAML to OIDC for SSO. What are the common pitfalls with token validation and JWKS rotation that we should watch for?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "I'm fine-tuning Llama 3 8B on medical notes but getting catastrophic forgetting on the original pretraining knowledge. What LoRA rank and alpha values work best for this domain?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Our fraud detection model's precision dropped from 94% to 87% after retraining on last quarter's data. How do I diagnose if it's label drift or feature drift?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "We're deploying a RAG pipeline with Milvus and need to choose between HNSW and IVF_FLAT indexes for 50M vectors. What's the latency/recall tradeoff at 99% recall?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Our GitLab CI pipeline takes 45 minutes because of sequential Terraform plan/apply stages. How can we parallelize plan for multiple environments safely?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "We're seeing P99 latency spikes on our Aurora PostgreSQL read replicas during peak traffic. Is this likely a replication lag issue or connection pooling exhaustion?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Setting up cross-account VPC peering between our AWS org accounts. What's the right way to configure route tables and security groups for least-privilege access between prod and staging?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Patient presents with sudden-onset unilateral facial droop, arm weakness, and slurred speech that resolved in 20 minutes. CT head negative. What's the next diagnostic step and secondary prevention?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "65-year-old male with recurring calcium oxalate kidney stones despite high fluid intake and thiazide. 24-hour urine shows hypercalciuria and hypocitraturia. What's the next pharmacologic step?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Pre-op workup for laparoscopic cholecystectomy in a patient with Child-Pugh B cirrhosis. What additional cardiac and pulmonary clearance is needed beyond standard labs?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Patient on warfarin for atrial fibrillation needs urgent dental extraction. INR is 3.2. Should we bridge with LMWH or just hold warfarin and use tranexamic acid mouthwash?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Comparing semaglutide vs tirzepatide for a patient with type 2 diabetes and BMI 38 who failed metformin and SGLT2 inhibitor. What are the key differences in GI side effect profiles and weight loss trajectories?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Elderly patient on digoxin, furosemide, and newly started clarithromycin for pneumonia. What electrolyte abnormality should we monitor for and what's the mechanism of interaction?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Patient with treatment-resistant MDD who failed two SSRIs and an SNRI. Considering augmentation with aripiprazole vs switching to MAOI. What are the dietary restrictions and washout periods we need to plan for?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Adolescent presenting with sudden onset food restriction, body image distortion, and amenorrhea for 4 months. BMI 16.2. What's the appropriate level of care and initial medical stabilization priorities?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Adult ADHD diagnosis clarification: patient reports childhood symptoms but no formal diagnosis. What structured assessment tools are validated for retrospective diagnosis in adults, and how do we rule out anxiety mimicry?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Our rural critical access hospital is evaluating whether to join a clinically integrated network vs. an ACO. What are the key differences in shared savings models and quality reporting requirements?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "We're getting denials for observation stays that exceed 48 hours. What documentation elements does CMS require to support inpatient admission vs. outpatient observation for similar clinical presentations?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Negotiating a new payer contract for our FQHC. What are the key carve-out provisions we should negotiate for 340B drug pricing and wrap-around services?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Marathon runner experiencing GI distress during long runs despite using maltodextrin gels. Would a multiple transportable carbohydrate blend with fructose reduce symptoms, and what's the optimal glucose:fructose ratio?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Patient with CKD stage 3b (eGFR 38) and hyperkalemia (K+ 5.6) on lisinopril. Need to restrict dietary potassium but maintain adequate nutrition. What's a practical meal plan approach that avoids both malnutrition and hyperkalemia?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Comparing Mediterranean vs. DASH diet for a 55-year-old with metabolic syndrome, hypertension, and strong family history of premature CAD. Which has stronger evidence for LDL reduction and insulin sensitivity improvement?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "I'm getting a 'hydration mismatch' error in my Next.js 14 app when using dynamic route parameters with useSearchParams. The server renders one thing but client sees another. How do I fix this without disabling SSR?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Building a Tauri app with Svelte and need to communicate between the Rust backend and frontend for file system operations. What's the recommended pattern for async commands and event handling?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "My Expo React Native app crashes on iOS when using react-native-reanimated 3 with gesture handler. Works fine on Android. Any idea what's causing the native module linking issue?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Our AWS WAF is blocking legitimate traffic from a partner's IP range that we've allowlisted. The logs show 'rule group' matches but we can't identify which managed rule is triggering. How do we debug this?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Found credentials hardcoded in a public GitHub repo from 3 years ago. Rotated the keys but worried about historical access. What's the proper incident response process for exposed secrets in git history?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Trying to implement passkeys/WebAuthn for our customer portal. The attestation verification is failing on Android but works on iOS. What's different about Android's authenticator data format?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Training a YOLOv8 model for defect detection on manufacturing line images. Getting good mAP on validation but terrible inference speed on Jetson Orin. What optimization techniques actually work for edge deployment?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Our embedding model produces 1536-dim vectors but downstream cosine similarity searches are returning irrelevant results. Could this be a dimensionality curse issue, and should we use PCA or UMAP for reduction?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Setting up MLflow for experiment tracking across multiple teams. What's the best way to organize projects, experiments, and runs so we can compare models across different problem domains?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Our ArgoCD sync keeps failing with 'resource quota exceeded' on the target namespace but the cluster has plenty of capacity. The error mentions 'priority class' - how does that affect resource quota calculations?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Migrating from self-hosted PostgreSQL to Aurora Serverless v2. Our application uses advisory locks heavily. Does Aurora support pg_advisory_lock the same way, or will we hit scaling issues?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Need to set up a site-to-site VPN between our on-prem data center and AWS using a third-party firewall appliance. What's the correct tunnel configuration for BGP failover with asymmetric routing?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "45-year-old woman with progressive dysphagia to solids then liquids, 15 lb weight loss. Barium swallow shows 'bird's beak' tapering. Manometry confirms absent peristalsis and failed LES relaxation. What's the definitive treatment?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Newborn with bilious vomiting, distended abdomen, and 'double bubble' sign on X-ray. What's the surgical urgency and what associated cardiac anomalies should we screen for before OR?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Patient with known aortic stenosis (mean gradient 45 mmHg) needs urgent open reduction internal fixation for hip fracture. What hemodynamic monitoring and anesthetic approach minimizes perioperative risk?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Switching a patient from immediate-release morphine to extended-release oxycodone for chronic cancer pain. What's the equianalgesic conversion ratio, and how do we handle breakthrough dosing during titration?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Patient with heparin-induced thrombocytopenia (HIT) confirmed by serotonin release assay. Need anticoagulation for DVT treatment. Why is fondaparinux preferred over direct oral anticoagulants in acute HIT?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Prescribing carbamazepine for trigeminal neuralgia in a patient of Asian ancestry. What HLA allele screening is required before initiation, and what's the risk of Stevens-Johnson syndrome without testing?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Patient with bipolar I disorder stable on lithium 900mg/day (level 0.8 mmol/L) wants to conceive. What's the teratogenicity risk, and how do we manage lithium through pregnancy and postpartum?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Adult with suspected autism spectrum disorder but no childhood diagnosis. What's the gold standard diagnostic assessment for adults, and how do we differentiate from social anxiety with high masking?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "College student with first episode psychosis - auditory hallucinations and disorganized speech for 3 weeks. Urine toxicology negative. What's the appropriate antipsychotic initiation strategy and duration of untreated psychosis implications?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Our hospital's 30-day readmission rate for heart failure is above CMS penalty threshold. What specific discharge planning interventions have the strongest evidence for reducing readmissions in safety-net populations?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Credentialing a new interventional cardiologist who trained abroad. What primary source verification steps are required by Joint Commission vs. NCQA, and how do we handle gaps in malpractice coverage history?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Negotiating a value-based contract with a Medicare Advantage plan for our primary care group. What quality measures (HEDIS/Stars) carry the highest weight, and how do we structure shared savings to align incentives?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Vegan athlete with low ferritin (12 ng/mL) but normal hemoglobin. Should we supplement iron, and if so, what form and dosing avoids GI side effects while optimizing absorption with plant-based diet?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Patient with IBS-D following low FODMAP diet for 8 weeks with symptom improvement. What's the structured reintroduction protocol to identify specific trigger foods without causing flare?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Comparing omega-3 index testing vs. RBC membrane fatty acid analysis for assessing cardiovascular risk. Which has better clinical validation, and what's the target EPA+DHA percentage for risk reduction?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "How do I implement optimistic UI updates in a React Query mutation while handling rollback if the server request fails?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "My SvelteKit app with adapter-node works locally but returns 500 on Vercel for API routes that use Node.js fs module. What's the correct way to handle file operations in a serverless environment?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Building a Flutter app that needs to work offline-first with SQLite sync to PostgreSQL when online. What's a good pattern for conflict resolution when the same record is modified on multiple devices?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Our SAML IdP is sending NameID in transient format but our SP expects persistent. The metadata looks correct. Could this be a NameIDPolicy mismatch in the AuthnRequest?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Running a penetration test on our GraphQL API and found batch query attacks bypassing rate limits. What's the proper way to implement depth limiting and query complexity analysis?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Need to encrypt PII at rest in PostgreSQL using pgcrypto. Should I use column-level encryption with triggers or application-level encryption before insert? What are the performance implications?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Fine-tuning a BERT classifier for legal document review with only 500 labeled examples. Getting 78% F1 but need 90%+. Would active learning with uncertainty sampling help, or should I try few-shot prompting with a larger LLM?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Our Airflow DAGs are failing intermittently with 'MySQL server has gone away' on long-running tasks. The database connection pool seems fine. Could this be a keepalive timeout issue with the RDS proxy?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Deploying a custom PyTorch model to TensorRT for inference on T4 GPUs. Getting 'could not find implementation' errors for some ops. What's the workflow for creating custom plugins vs using ONNX fallback?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Our Kubernetes cluster's CoreDNS pods are OOMKilled every few hours. The node has plenty of memory. Is this a known issue with large cluster DNS query volumes, and should we increase the memory limit or scale replicas?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Setting up Terraform Cloud with a private module registry. How do we version modules properly when different environments need different module versions, and what's the migration path from local modules?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Our Redis cluster on ElastiCache shows high CPU during key expiration cycles. We have 50M keys with TTL. Would switching to lazy expiration or using a separate cleanup job reduce the spike?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "32-year-old male with 6 hours of severe RLQ pain, nausea, low-grade fever. CT shows 1.2 cm appendicolith with periappendiceal fat stranding but no abscess. Laparoscopic vs open appendectomy - what factors guide the decision?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Postmenopausal woman with incidental 2.5 cm complex ovarian cyst on ultrasound. CA-125 is 45 U/mL. RMI score calculation and what's the appropriate follow-up interval vs referral to gyn-oncology?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Patient with chronic subdural hematoma after minor fall 3 weeks ago, now with progressive confusion and mild hemiparesis. Burr hole drainage vs craniotomy - what imaging features predict recurrence risk?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Patient on apixaban for VTE prophylaxis post-TKA needs emergency laparotomy for perforated diverticulitis. Andexanet alfa vs 4-factor PCC for reversal - what's the evidence for major bleeding in this setting?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Starting a patient on clozapine for treatment-resistant schizophrenia. What's the required ANC monitoring schedule, and at what absolute neutrophil count do we hold vs discontinue permanently?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Prescribing DOAC for atrial fibrillation in a patient with mechanical mitral valve. Why are DOACs contraindicated here, and what's the target INR range for warfarin in this specific valve type?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "16-year-old with 6 months of daily cannabis use, declining grades, and irritability when unable to smoke. Parents want residential treatment. What does ASAM criteria say about appropriate level of care for cannabis use disorder in adolescents?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Patient with borderline personality disorder and recurrent self-harm. DBT vs mentalization-based therapy - what does the evidence show for reducing self-injury frequency, and how do we assess treatment fidelity?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Geriatric patient with new-onset visual hallucinations, fluctuating cognition, and REM sleep behavior disorder. Lewy body dementia vs Parkinson's disease dementia - what clinical features and biomarkers differentiate them?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Our health system is acquiring a private practice group. What are the Stark Law and Anti-Kickback Statute implications for the employment model vs professional services agreement structure?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Submitting a CMS appeal for a denied inpatient claim where the patient was discharged to hospice on day 3. What documentation proves the admission was reasonable and necessary despite the short stay?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Negotiating a capitation agreement with an IPA for our multispecialty group. What risk-adjustment methodology (HCC vs CDPS) is more favorable for a population with high disability but low chronic disease coding?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Endurance cyclist doing 4-hour rides in heat. Losing 2.5L sweat per hour with high sodium concentration (60 mmol/L). What's the hourly sodium replacement target and best delivery method to prevent hyponatremia?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Patient with phenylketonuria (PKU) transitioning from pediatric to adult care. What's the current Phe tolerance target for adults, and how do we adjust medical formula when they refuse the taste?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Comparing plant-based protein blends (pea/rice vs soy/hemp) for leucine content and digestibility in older adults with sarcopenia. Which combination achieves the 2.5g leucine threshold per meal most efficiently?",
+    "label": "Nutrition"
+  }
+]
