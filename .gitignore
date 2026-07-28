@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# Hugging Face cache
+.cache/
+huggingface/
+.huggingface/
+
+# Generated prompts
+generation_prompt.md
+
+# Generated raw batches (usually large)
+raw/
+*.jsonl
+
+# Local generated datasets
+hf_dataset/
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
