@@ -322,5 +322,113 @@
   {
     "text": "Comparing plant-based protein blends (pea/rice vs soy/hemp) for leucine content and digestibility in older adults with sarcopenia. Which combination achieves the 2.5g leucine threshold per meal most efficiently?",
     "label": "Nutrition"
+  },
+  {
+    "text": "My SwiftUI List lags badly when scrolling through about 500 Core Data items. I tried LazyVStack but the stuttering persists. Is there a better pattern for handling large datasets in a SwiftUI list without resorting to UIKit?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "I'm designing a REST API with Go and I'm unsure about error handling middleware design. Should I use a centralized error handler wrapping all routes, or handle errors per handler with custom status codes?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Debating whether to use Next.js App Router or Pages Router for a new e-commerce platform that needs SSR, ISR, and dynamic routing for thousands of product pages. What are the real-world trade-offs now that App Router is stable?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Our SIEM keeps flagging outbound connections to an IP in Belarus from a server that only hosts internal tools. Packet captures show encrypted traffic resembling Exim SMTP but we don't run mail servers there. What should I investigate next?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Is rotating API keys every 90 days still considered a best practice if we already issue short-lived JWTs with automated rotation? The team thinks static keys combined with JWT expiration covers the threat model adequately.",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "We were hit with a phishing campaign using a legitimate-looking Google Forms clone hosted on Firebase with a valid SSL certificate. What user training strategies actually work when all the usual phishing indicators look clean?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Training a YOLOv8 model on custom aerial imagery and my mAP50 plateaus after 50 epochs while training loss keeps dropping. Is this classic overfitting or should I try a cosine annealing scheduler instead of step decay?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Building an LSTM for time-series forecasting with irregularly sampled sensor data. The variable time gaps between readings seem to degrade performance significantly. Would a Neural ODE or a Transformer with time encoding handle this better?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "Deploying a BERT-based classifier for legal document review and inference on CPU is around 800ms per document. What quantization or knowledge distillation techniques would you recommend to get under 200ms without losing more than 2% F1?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "PostgreSQL 15 on RDS read replica consistently falls 30 seconds behind the primary during peak hours. The primary is not maxed on IOPS or connections. What metrics or waits should I look at to identify the bottleneck?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Karpenter on EKS provisions new nodes but pods stay pending with insufficient CPU even after the nodes join. I suspect taint and toleration mismatch but karpenter logs show nothing unusual. Any debugging steps beyond checking node conditions?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Migrating 2TB from self-hosted MinIO to S3 with minimal downtime. Planning to use rclone sync but worried about multipart upload edge cases and checksum mismatches for large files. Has anyone done this at scale and hit any gotchas?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Fifty-eight-year-old male with painless jaundice, palpable gallbladder, and a mass in the pancreatic head on CT. CA 19-9 is 1200 and biliary dilatation is present. No metastatic disease on staging. Whipple versus palliative stenting for this presentation?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Comminuted intra-articular distal radius fracture in a 45-year-old active patient. Volar locking plate or external fixation given the degree of comminution and articular step-off of 2 mm? What factors tilt the decision one way or the other?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Seven-year-old with three weeks of intermittent fevers, salmon-pink evanescent rash, bilateral non-purulent conjunctivitis, strawberry tongue, and elevated ESR and CRP. No response to antibiotics. Kawasaki disease versus something else in the differential?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Patient on warfarin for a mechanical mitral valve came in with INR of 5.8 on routine check. No signs of bleeding. He accidentally doubled his dose yesterday. Should I give low-dose vitamin K or just hold warfarin and recheck tomorrow morning?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Started bupropion XL for smoking cessation in a 32-year-old woman. After three days she reports severe anxiety and palpitations. She forgot to mention she also uses sumatriptan for migraines. Is there a clinically significant interaction here?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Our hospital just introduced CYP2C19 genotyping. Should we test all post-PCI patients before starting clopidogrel or reserve testing for those with high-risk PCI or prior stent thrombosis? What does the current data actually support?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "A 24-year-old graduate student with depressed mood, anhedonia, hypersomnia, 15-pound weight gain, and poor concentration for three months. She tried fluoxetine before but stopped due to sexual side effects. What would be the next appropriate pharmacotherapy?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Patient with borderline personality disorder frequently splits on her therapist, alternating between idealization and devaluation within the same session. What evidence-based therapeutic approaches work best for managing splitting in community mental health settings?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Sixteen-year-old male with no prior psychiatric history hospitalized for a first manic episode with euphoria, grandiose delusions, decreased need for sleep, and reckless spending. Family history positive for bipolar I. How long should mood stabilizers continue after remission?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Our 200-bed community hospital is evaluating Epic versus Cerner for a new EHR. The licensing quotes are vastly different and the board wants an ROI projection. How do you calculate total cost of ownership beyond just the upfront software fees?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "CHF readmission rate at our hospital is 24 percent within 30 days, well above the national benchmark. We have a transitional care team but the inpatient-to-outpatient handoff seems broken. What process changes have worked at facilities that improved similar rates?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Practice manager at a small family medicine clinic trying to navigate the 2026 Medicare physician fee schedule cuts. With reimbursement rates dropping, how are other independent practices staying operational without merging into a larger health system?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Designing a meal plan for a vegan endurance athlete training for an Ironman. She struggles to meet protein needs without relying on processed plant proteins. What whole-food strategies could help her reach around 120 grams of protein per day?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "There seem to be conflicting studies on whether the omega-6 to omega-3 ratio actually matters for cardiovascular health. Some sources say 4 to 1 is ideal while others argue only absolute intake levels are relevant. What does the current evidence actually support?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "My DEXA scan showed osteopenia in the hip (T-score negative 1.8). I am a 45-year-old premenopausal woman, I lift weights three times a week, and I eat a balanced diet. Should I increase calcium beyond 1000 mg daily or focus on something else?",
+    "label": "Nutrition"
   }
 ]

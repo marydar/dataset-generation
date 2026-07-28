@@ -1,10 +1,9 @@
 import json
 from datasets import load_dataset
 
-DATASET_ID = "maryamdar/topic-classification-dataset"
 
 
-def download_dataset():
+def download_dataset(DATASET_ID):
 
     dataset = load_dataset(DATASET_ID)
 

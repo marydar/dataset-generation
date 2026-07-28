@@ -3,6 +3,7 @@ import json
 
 
 def create_dataset(
+    DATASET_ID,
     json_path="dataset.json",
     output_path="hf_dataset"
 ):
@@ -19,7 +20,7 @@ def create_dataset(
     print(dataset)
     print(f"Saved to {output_path}")
     dataset.push_to_hub(
-    "maryamdar/topic-classification-dataset"
+    DATASET_ID
     )
 
 

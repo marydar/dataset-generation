@@ -1,6 +1,7 @@
 from prompt_generator import generate_generation_prompt
 import json
 
+SAMPLES_PER_LABEL = 3
 
 def main():
 
@@ -10,7 +11,7 @@ def main():
 
     prompt = generate_generation_prompt(
         labels,
-        samples_per_label=3,
+        samples_per_label=SAMPLES_PER_LABEL,
         batch_size=5
     )
 
