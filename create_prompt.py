@@ -1,7 +1,7 @@
 from prompt_generator import generate_generation_prompt
 import json
 
-SAMPLES_PER_LABEL = 1
+SAMPLES_PER_LABEL = 5
 def main():
 
     with open("labels.json", "r", encoding="utf-8") as f:

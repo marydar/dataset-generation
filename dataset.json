@@ -14426,5 +14426,725 @@
   {
     "text": "My figure drawing has a consistent error where the leg that is further from the viewer appears larger than the closer leg because I'm not accounting for foreshortening correctly. The perspective distortion makes the figure look deformed. Is there a measuring technique that helps gauge foreshortening more accurately than eyeballing?",
     "label": "Painting"
+  },
+  {
+    "text": "React or Vue in 2026?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "getting a 400 bad request on my post endpoint even though the payload looks fine, any ideas",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "I'm building a Flutter app that needs to sync offline data when connectivity returns. Right now I'm using a simple local database but conflicts keep happening when the user edits the same item on two devices. Is there a standard approach for handling conflict resolution in mobile apps?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "Why does my CSS grid break on Safari but look perfect in Chrome?",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "I have a Node.js backend running on port 3000 and a React frontend served from Vite on port 5173. When I make a fetch request from the browser to the API it works fine, but the moment I deploy to production the same request fails with a CORS error. I've added the cors middleware but nothing changed. Do I also need to configure something in the frontend build, or is this purely a server-side issue? I'm using axios with credentials included. Any guidance would be appreciated because I've been stuck on this for two days.",
+    "label": "Desktop & Mobile & Web Development"
+  },
+  {
+    "text": "phishing email",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "Should I use a password manager?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "I found a process I didn't install eating CPU and calling home to a server in a foreign country, and I need to know what it's doing before I wipe the machine.",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "How do you defend against SQL injection when everything goes through an ORM?",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "We're rolling out MFA to our whole company this quarter and people are pushing back hard. A lot of employees are complaining that the authenticator app is annoying and some are asking for SMS instead. Security team wants to keep it strict but I've read that SMS has real weaknesses. Is there a good middle ground between security and user experience, and what do most companies actually deploy at scale? We're on Google Workspace if that matters for the setup.",
+    "label": "Cybersecurity"
+  },
+  {
+    "text": "fine tuning llama",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "RMSE or MAE when outliers are present?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "My transformer's training loss keeps dropping but validation plateaus at 0.9 with a 1e-4 learning rate and no scheduler — is that overfitting, or should I look at label imbalance first?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "How do I deploy a scikit-learn pipeline to production without rewriting everything in FastAPI?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "I'm working on an image segmentation model for medical scans and the classes are heavily imbalanced — background takes up roughly 95% of every image. I've tried weighted cross entropy but the small structures still get missed. Someone suggested using a combination of Dice loss and focal loss. I'm also augmenting with rotations and elastic deformations. Should I try oversampling the minority class instead, or is there a better loss function people use for this kind of problem?",
+    "label": "AI / Machine Learning / Data Science"
+  },
+  {
+    "text": "k8s pod eviction",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "postgres slow after adding index",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "Why does my terraform state lock keep getting stuck in S3 plus DynamoDB whenever two teammates run apply at the same time, and how do I safely force-release it?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "What's the difference between a forward proxy and a reverse proxy?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "I run a small e-commerce site on a single VPS and it was fine until we launched a promo. Now the database connections max out and nginx returns 502 errors every few minutes. I've already added connection pooling on the app side and it helped a little but not enough. The VPS has 4GB of RAM and I'm wondering if I should add read replicas or just scale up the box first. I'm on MySQL 8 with default settings, nothing tuned. What's the cheapest path that won't require rewriting the app?",
+    "label": "Infrastructure (DevOps, Cloud, Databases, Networking)"
+  },
+  {
+    "text": "heart palpitations after coffee",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "Is it normal to feel dizzy when standing up quickly?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "My son has had a fever for three days that comes and goes, and now he's developed a rash on his torso. It doesn't seem to bother him and he's still eating well. Should I be worried or is this likely a viral thing we just wait out?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "I had an ultrasound that showed a small nodule on my thyroid. My doctor said we'll watch it and recheck in six months. How often do these turn out to be something serious, and what symptoms should make me call sooner?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "I've been getting persistent pain in my right upper quadrant that worsens after eating fatty meals. My GP ordered an abdominal ultrasound which showed gallstones, and we discussed surgery. I'm a little anxious about the procedure since I've never had surgery before. The surgeon mentioned keyhole gallbladder removal and said most people go home the same day. How long is the usual recovery before I can go back to work, and are there dietary changes that help in the first few weeks? Also, what are the main risks I should actually be worried about?",
+    "label": "Clinical Diagnosis, Treatment & Surgery"
+  },
+  {
+    "text": "amoxicillin interactions",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "Can I take ibuprofen with blood thinners?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "My pharmacist switched me to the generic version of my blood pressure medication and now my readings are higher than before. I know generics are supposed to be equivalent but I'm not convinced. Should I ask my doctor to switch back to the brand name?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "How does an extended release tablet differ from the regular one in terms of how it's absorbed?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "I was prescribed a statin three months ago and I'm now experiencing muscle aches that I never had before. I've read that this can be a side effect, but my labs showed normal creatinine kinase levels. My doctor said the numbers look fine so it's probably not related, but the pain is definitely worse on days after I take the pill. I'm on 20mg of atorvastatin. Is it reasonable to ask about a different statin, or am I just being paranoid?",
+    "label": "Medication & Pharmacology"
+  },
+  {
+    "text": "therapy intake checklist",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "Is rumination a sign of depression?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "I've been on sertraline for six weeks and I feel more anxious than when I started. I know there's a settling-in period but I'm struggling to get through it. Is this something to push through or should I contact my psychiatrist earlier than our next appointment?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "My therapist recently suggested I might meet criteria for ADHD and it threw me off because I always associated it with being hyperactive as a kid. I've read that adults, especially women, present differently and it often shows up as chronic disorganization and trouble focusing rather than bouncing off the walls. I'm 34 and I've always just thought I was lazy. She wants me to consider a full assessment. Has anyone here been diagnosed later in life and found it helpful to know? I'm trying to figure out if the label is worth chasing.",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "My therapist asked me to track my moods in a journal before our next session, but I don't really understand what I'm supposed to be noticing. Should I just log basic feelings, or is there a specific method that makes the sessions more productive?",
+    "label": "Mental Health (Clinical)"
+  },
+  {
+    "text": "explain my hospital bill",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "Do urgent care centers accept Medicare?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "My insurance denied an MRI my doctor ordered, saying it wasn't medically necessary. The appeal process seems confusing and I have no idea where to start. Do I have to go through my insurance company's internal appeal first before anything else?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "I work at a small clinic and we're trying to switch to a new EHR system. What should we look for in the contract and how do we handle the data migration from our old records?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "I just got a bill from the hospital for an emergency room visit and it's way higher than I expected. There are separate charges for the facility, the physician, and something called a 'clinical observation' fee that I don't understand. I called the billing department and they told me to file an itemized claim, but nobody explained how the insurance paid portion works. I have a high deductible plan. Is it worth asking about a payment plan or negotiating the total down, and how do people usually approach this without getting burned?",
+    "label": "Healthcare Organizations, System, Hospitals"
+  },
+  {
+    "text": "protein timing for muscle gain",
+    "label": "Nutrition"
+  },
+  {
+    "text": "Is olive oil actually healthy or just hype?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "My doctor wants me to cut sodium for my blood pressure, but everything I cook tastes bland — what are the best substitutes that don't just taste like extra salt?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "How much fiber should I be getting per day and is it better to get it from food or supplements?",
+    "label": "Nutrition"
+  },
+  {
+    "text": "I've been intermittent fasting on a 16:8 schedule for about two months and my energy is fine, but I'm worried about muscle loss because I lift weights three times a week. I eat around 180 grams of protein on training days but I'm not sure if that's enough to compensate for the fasting window. My scale weight has dropped about 6 pounds but I can't tell how much is fat versus muscle. Should I change my feeding window on workout days, or add a protein shake right before the fast starts? I'd rather keep the fasting benefits if possible.",
+    "label": "Nutrition"
+  },
+  {
+    "text": "split bills with roommate",
+    "label": "Payments & Personal Budgeting"
+  },
+  {
+    "text": "What's the 50/30/20 rule?",
+    "label": "Payments & Personal Budgeting"
+  },
+  {
+    "text": "I keep overspending on food delivery without noticing until my credit card statement arrives. I want to set up a realistic monthly budget for groceries and eating out. What categories do people actually find useful, or should I just track everything manually?",
+    "label": "Payments & Personal Budgeting"
+  },
+  {
+    "text": "My credit score dropped 40 points because I accidentally missed a single payment. How long does something like that actually stay on my report, and is there any way to get it removed if it was a genuine mistake?",
+    "label": "Payments & Personal Budgeting"
+  },
+  {
+    "text": "My spouse and I decided to merge our finances and we're arguing about how to handle discretionary spending. I like having a small personal allowance each month that I don't have to explain, and they think everything should go into shared accounts. We have separate credit cards and a joint mortgage, so it's not a clean slate. I've heard of people doing 'yours, mine, and ours' with three accounts but I'm not sure how to set up the percentages. Is there a structure that works well for couples with different spending styles?",
+    "label": "Payments & Personal Budgeting"
+  },
+  {
+    "text": "checking account online",
+    "label": "Banking"
+  },
+  {
+    "text": "Should I refinance my mortgage right now?",
+    "label": "Banking"
+  },
+  {
+    "text": "I'm an international student and the bank wants documents I don't have, like proof of address and a letter from my university — is that normal or is the branch just being difficult?",
+    "label": "Banking"
+  },
+  {
+    "text": "What happens to my checking account if I move abroad for a couple of years? Can I keep it open with a foreign address on file?",
+    "label": "Banking"
+  },
+  {
+    "text": "I need to move a large amount of money to a family member overseas and my bank is flagging the transfer. They asked for source of funds documentation and the whole process is taking over a week. The money came from selling a car and I have the paperwork, but the hold is preventing me from also paying off a credit card balance in the meantime. Is there a way to speed this up, or should I just expect delays with anything above a certain amount? Also, would a wire transfer fee be lower than what I'm being quoted?",
+    "label": "Banking"
+  },
+  {
+    "text": "ETF vs mutual fund",
+    "label": "Investment, Markets & Cryptocurrency"
+  },
+  {
+    "text": "Is now a good time to buy bitcoin?",
+    "label": "Investment, Markets & Cryptocurrency"
+  },
+  {
+    "text": "I have about $10k sitting in cash that I don't need for the next few years. I was thinking of putting it into an index fund but I'm also curious about buying a small amount of crypto. What's a sensible split for someone with my risk tolerance?",
+    "label": "Investment, Markets & Cryptocurrency"
+  },
+  {
+    "text": "I keep seeing posts about 'dividend aristocrats' as a way to build passive income. How does dividend investing actually compare to just selling off shares of a growth fund when you need cash?",
+    "label": "Investment, Markets & Cryptocurrency"
+  },
+  {
+    "text": "I started day trading six months ago and I'm losing more than I'm making, which I know is typical, but I can't figure out if it's my strategy or just my execution. I keep buying high and panic selling when a stock drops 3%. I've read about stop losses and position sizing but I never actually set them up. What's the most important thing to fix first for someone who keeps making the same mistake? I'm wondering if I should just switch to longer time frames or even move to passive investing entirely.",
+    "label": "Investment, Markets & Cryptocurrency"
+  },
+  {
+    "text": "how to record prepaid rent",
+    "label": "Corporate Accounting"
+  },
+  {
+    "text": "What's the difference between cash and accrual accounting?",
+    "label": "Corporate Accounting"
+  },
+  {
+    "text": "My business uses QuickBooks and I keep getting a discrepancy between the bank feed and my books at month end. I think the issue is uncleared transactions but I'm not sure how to reconcile properly. What's the usual workflow for getting the balance to zero?",
+    "label": "Corporate Accounting"
+  },
+  {
+    "text": "I'm a small SaaS company and my accountant wants me to choose between ASC 606 revenue recognition and just booking cash. We have annual subscriptions billed upfront. Is it worth the complexity now or should we wait until we're bigger?",
+    "label": "Corporate Accounting"
+  },
+  {
+    "text": "I'm preparing for our annual audit and the auditors asked for supporting documentation for a large bad debt write-off we recorded last year. The invoice is old and I'm not sure we have all the emails showing we attempted to collect. They also flagged our depreciation schedule because we changed the useful life of some equipment mid-year without documenting it. This is my first time going through a full audit as the finance lead. How much trouble can minor documentation gaps like this cause, and what should I prioritize providing first?",
+    "label": "Corporate Accounting"
+  },
+  {
+    "text": "sqrt 2 irrational",
+    "label": "Physics & Mathematics"
+  },
+  {
+    "text": "Why do electrons not spiral into the nucleus?",
+    "label": "Physics & Mathematics"
+  },
+  {
+    "text": "I'm trying to understand why the divergence of the curl of any vector field is always zero. I can follow the algebra but I have no intuition for what it physically means. Can someone explain it in terms of flux or circulation?",
+    "label": "Physics & Mathematics"
+  },
+  {
+    "text": "Does time dilation mean astronauts literally age slower than everyone on Earth, or is it just a math trick with clocks?",
+    "label": "Physics & Mathematics"
+  },
+  {
+    "text": "I'm a self-taught programmer trying to get better at the math behind ML and I'm stuck on linear algebra. I understand matrix multiplication mechanically but I struggle with concepts like eigenvalues and what a vector space actually represents. I've watched 3Blue1Brown but the moment I try a textbook problem I freeze. I'm considering whether to just grind through Gilbert Strang or find something more applied. My goal is understanding PCA and gradient descent properly, not proofs. What order should I actually learn this stuff in?",
+    "label": "Physics & Mathematics"
+  },
+  {
+    "text": "why is benzene more stable than expected",
+    "label": "Chemistry"
+  },
+  {
+    "text": "What's the difference between molarity and molality?",
+    "label": "Chemistry"
+  },
+  {
+    "text": "My lab experiment on titration keeps giving results that are slightly lower than the theoretical value. I'm wondering if it's because I'm overshooting the endpoint or because my indicator is old. How do I tell which one is the real problem?",
+    "label": "Chemistry"
+  },
+  {
+    "text": "I'm baking and the recipe calls for baking soda but I only have baking powder. Can I just substitute directly or do I need to adjust something?",
+    "label": "Chemistry"
+  },
+  {
+    "text": "I'm trying to understand how pH buffers work and I keep confusing myself with the Henderson-Hasselbalch equation. I get that a buffer resists pH change, but I can't wrap my head around why the ratio of conjugate base to acid is what matters more than the total amount. I did an experiment with an acetic acid buffer and the pH barely moved when I added HCl, which surprised me. How does the equilibrium actually shift to absorb the extra protons? Also, why does the buffer break down completely once you exceed the capacity?",
+    "label": "Chemistry"
+  },
+  {
+    "text": "how do vaccines train the immune system",
+    "label": "Biology"
+  },
+  {
+    "text": "Why do humans have two kidneys if one is enough to survive?",
+    "label": "Biology"
+  },
+  {
+    "text": "I'm trying to decide between a career in microbiology and ecology and I'm confused about the actual day to day work. Microbiology seems more lab based while ecology is more field work. Are the job prospects really that different?",
+    "label": "Biology"
+  },
+  {
+    "text": "I read that honeybees can recognize human faces and I want to know if that's actually true or just a misleading study.",
+    "label": "Biology"
+  },
+  {
+    "text": "I'm working on a class project about gut microbiota and I need to design a small experiment on how diet affects the microbiome. The problem is I don't have access to sequencing, so I'm limited to looking at things like pH, fermentation products, or colony counts on simple media. I was thinking of feeding different sugar sources to a bacterial culture and measuring gas production as a proxy for fermentation. Does that sound like a defensible design, or is gas production too indirect? I also need to think about how to make the control group convincing so my teacher doesn't call it biased.",
+    "label": "Biology"
+  },
+  {
+    "text": "offside rule explained",
+    "label": "Team Sports"
+  },
+  {
+    "text": "How do you defend a pick and roll?",
+    "label": "Team Sports"
+  },
+  {
+    "text": "Our youth soccer team keeps losing games because the players all crowd around the ball and nobody spreads out. I'm a volunteer coach with no formal training. What drills can fix spacing without turning practice into a lecture?",
+    "label": "Team Sports"
+  },
+  {
+    "text": "Who's the best current point guard in the NBA, or is the answer actually just vibes at this point?",
+    "label": "Team Sports"
+  },
+  {
+    "text": "I'm a midfielder and my coach wants me to work on my first touch under pressure, but every drill we do in training is unopposed so it feels useless. When the ball comes to me at match speed with a defender closing in, I either bounce it too far or take too long to decide. I've been watching clips of players like Modric and I can see they know where the next pass is before the ball even arrives. How do you actually train that decision-making part, not just the touch? I'm willing to put in extra sessions but I need drills that simulate pressure rather than just cones.",
+    "label": "Team Sports"
+  },
+  {
+    "text": "tennis serve toss",
+    "label": "Individual Sports"
+  },
+  {
+    "text": "What's a realistic marathon time for a first timer?",
+    "label": "Individual Sports"
+  },
+  {
+    "text": "I'm a beginner at bouldering and my fingers keep hurting after sessions. I've heard this is normal but I'm worried I'm training too hard too fast. How do you balance building finger strength without getting injured?",
+    "label": "Individual Sports"
+  },
+  {
+    "text": "I've been cycling to work for years but I finally want to race for the first time this season. I did a few group rides and I can hold my own, but I have no idea how racing actually works — when to attack, how positioning matters, whether to stay with the pack. I also don't have a power meter so I'm training by feel. Everyone I've asked gives different advice and it's overwhelming. Should I just do a few practice races to learn by doing, or is there a structured way to prepare that I'm missing? My goal is just to not finish embarrassingly.",
+    "label": "Individual Sports"
+  },
+  {
+    "text": "I've been practicing my butterfly stroke for months but I can't seem to keep my breathing rhythm. My hips keep sinking when I take a breath. Any drills to fix that?",
+    "label": "Individual Sports"
+  },
+  {
+    "text": "good glute exercises",
+    "label": "Fitness & Training"
+  },
+  {
+    "text": "How many sets per week for muscle growth?",
+    "label": "Fitness & Training"
+  },
+  {
+    "text": "I've been running for months but my knees hurt whenever I increase my weekly mileage. I've tried stretching and new shoes. Is it more likely a form issue or am I just ramping up too fast?",
+    "label": "Fitness & Training"
+  },
+  {
+    "text": "I work a desk job and my lower back is always tight. Are there daily mobility drills that actually help, or is that whole 'hip mobility' thing mostly internet hype?",
+    "label": "Fitness & Training"
+  },
+  {
+    "text": "I'm a 45 year old who hasn't lifted weights in over a decade and I want to get back into shape without injuring myself. I used to lift in my twenties and I keep catching myself trying to use the same weights I did back then, which I know is stupid. My plan is to start with a simple full body routine three days a week and focus on form. I'm also thinking about hiring a coach for a few sessions just to check my technique on the big lifts. Is that worth the money, or can I learn everything from videos? Also, how long should I expect to wait before I stop being insanely sore after every session?",
+    "label": "Fitness & Training"
+  },
+  {
+    "text": "why do tall buildings sway",
+    "label": "Civil, Structural & Architecture"
+  },
+  {
+    "text": "What's the difference between reinforced concrete and pre-stressed concrete?",
+    "label": "Civil, Structural & Architecture"
+  },
+  {
+    "text": "I'm designing a small house addition and the plan checker said my beam sizes don't meet the local code for snow load. I followed a span table I found online. Where should I actually be looking up design values, and can I do this myself or do I need a structural engineer?",
+    "label": "Civil, Structural & Architecture"
+  },
+  {
+    "text": "My apartment building has visible cracks in the foundation wall and the landlord says it's just settling. How can I tell if that's actually normal or a sign of something worse?",
+    "label": "Civil, Structural & Architecture"
+  },
+  {
+    "text": "I'm a civil engineering student working on my capstone project about retrofitting an old downtown bridge that's structurally deficient. The bridge was built in the 1950s and the load rating is way below what today's traffic needs. We're comparing options between strengthening the girders, replacing the deck, or just building a new span next to it. The tricky part is the historical district restrictions, so we can't dramatically change the appearance. I'm trying to figure out which option gives the best load capacity improvement per dollar, and how maintenance costs factor into a 50 year horizon. Does anyone have experience with a similar assessment they can share?",
+    "label": "Civil, Structural & Architecture"
+  },
+  {
+    "text": "servo vs stepper motor",
+    "label": "Mechanical & Electrical Engineering"
+  },
+  {
+    "text": "How do I size a wire for a 240V circuit?",
+    "label": "Mechanical & Electrical Engineering"
+  },
+  {
+    "text": "My home CNC machine keeps losing steps on the X axis during fast moves. I've already tightened the belts and checked the couplers. Could this be an acceleration issue in the controller, or should I be looking at the stepper drivers?",
+    "label": "Mechanical & Electrical Engineering"
+  },
+  {
+    "text": "I'm designing a small automated greenhouse for a school project and I need to control temperature, humidity, and watering. I was thinking of using an Arduino with a bunch of sensors and relays, but I'm starting to worry about power management when the heater and water pump run at the same time. I have a 12V power supply rated for 10 amps and I'm not sure if that's enough. I also don't know whether to do a single controller or separate modules. Has anyone built something similar and can tell me the biggest pitfalls, like voltage drops or relay noise resetting the board?",
+    "label": "Mechanical & Electrical Engineering"
+  },
+  {
+    "text": "Do I need a 20 amp breaker for a continuous load like a space heater, or is a 15 amp one enough?",
+    "label": "Mechanical & Electrical Engineering"
+  },
+  {
+    "text": "in-laws overstep boundaries",
+    "label": "Family & Relationships"
+  },
+  {
+    "text": "How do I apologize without making it worse?",
+    "label": "Family & Relationships"
+  },
+  {
+    "text": "My sister and I haven't spoken in two years after a fight over our parents' estate, and I want to reach out but I'm scared it'll just reopen everything.",
+    "label": "Family & Relationships"
+  },
+  {
+    "text": "My teenage son won't talk to me about anything anymore and I feel like every question I ask just makes him close off more. How do parents get through this phase without destroying the relationship?",
+    "label": "Family & Relationships"
+  },
+  {
+    "text": "My partner and I have been together for six years and lately I feel like we're more like roommates than a couple. We still love each other but the spark is gone and we barely have conversations beyond logistics about kids and bills. I brought it up once and they said I was overreacting because 'all long term relationships settle down.' I don't want to blow up my family over something that might just be normal, but I also don't want to accept a mediocre relationship. Has anyone successfully rekindled things at this stage, or is this usually the beginning of the end? I'm open to couples counseling but I'm not sure how to bring it up without starting a fight.",
+    "label": "Family & Relationships"
+  },
+  {
+    "text": "stop doomscrolling",
+    "label": "Personal Growth & Reflection"
+  },
+  {
+    "text": "How do I set goals I'll actually stick to?",
+    "label": "Personal Growth & Reflection"
+  },
+  {
+    "text": "I realized I've been avoiding hard conversations at work because I'm scared of conflict. It's making me resentful and exhausted. How do you build the habit of speaking up before resentment builds?",
+    "label": "Personal Growth & Reflection"
+  },
+  {
+    "text": "I want to read more but I can never finish a book. Is it a discipline problem or am I just picking books I don't actually care about?",
+    "label": "Personal Growth & Reflection"
+  },
+  {
+    "text": "I'm 31 and I feel like I'm constantly busy but never productive. I work full time, volunteer, and have a side project, and yet at the end of the week I can't point to anything meaningful I actually finished. I've tried time blocking, to-do lists, and even quitting social media, and the pattern comes back every time. I'm starting to think the problem isn't my tools but the fact that I say yes to too many things. How do you actually learn to say no and pick a small number of priorities without feeling guilty about letting people down? Also, is there a difference between being busy and being productive that's more than just semantics?",
+    "label": "Personal Growth & Reflection"
+  },
+  {
+    "text": "best time to visit Japan",
+    "label": "Travel"
+  },
+  {
+    "text": "How do I pack carry-on only for a two week trip?",
+    "label": "Travel"
+  },
+  {
+    "text": "I'm planning a road trip through the national parks but I'm overwhelmed by the reservation system for campsites and permits. A lot of them open six months in advance and sell out instantly. Do I need to plan the whole route around that, or is there a more relaxed way to do it?",
+    "label": "Travel"
+  },
+  {
+    "text": "I have a 14 hour layover in Singapore — is it worth leaving the airport, and what's the fastest way to see something without stressing about missing my flight?",
+    "label": "Travel"
+  },
+  {
+    "text": "My family of four is trying to plan a budget trip to Europe and every time I look at flights or hotels I get overwhelmed and give up. We're flexible on dates and destinations but I feel like the longer I wait the more expensive everything gets. I've heard of people using mistake fares and credit card points but that sounds like a lot of work. Should I just pick one city and book directly, or is there a smarter way to narrow down options? We'd rather spend money on experiences than fancy hotels. I'm also worried about hidden fees from booking sites, so where do people actually book flights and rooms these days without getting ripped off?",
+    "label": "Travel"
+  },
+  {
+    "text": "cold email tips",
+    "label": "Marketing & Sales"
+  },
+  {
+    "text": "What's the difference between CPC and CPM?",
+    "label": "Marketing & Sales"
+  },
+  {
+    "text": "Our conversion rate dropped from 3% to 1.2% right after the checkout redesign, even though we removed fields — where should I start looking for the cause?",
+    "label": "Marketing & Sales"
+  },
+  {
+    "text": "I run a small bakery and I want to start posting on Instagram but I have no idea what content actually sells baked goods versus just gets likes. Do I need professional photos or is phone photography fine for now?",
+    "label": "Marketing & Sales"
+  },
+  {
+    "text": "We're a B2B software company and our sales team keeps complaining that the marketing leads are garbage, while marketing says sales never follows up. We have a handoff system where leads get assigned automatically, but nobody ever talks about what makes a lead qualified in the first place. The CRM shows over 500 leads last month but only a handful of demos booked. I'm the new revenue operations hire and I'm supposed to fix this. Should I start by defining a shared lead score with both teams in the room, or is the issue more about how leads are captured? I feel like I'm walking into an endless blame game.",
+    "label": "Marketing & Sales"
+  },
+  {
+    "text": "mvp vs prototype",
+    "label": "Entrepreneurship & Startups"
+  },
+  {
+    "text": "How do I find a technical cofounder?",
+    "label": "Entrepreneurship & Startups"
+  },
+  {
+    "text": "I've been building a SaaS tool on the side for a year and I finally have a few paying customers, but I'm burning out because I'm doing everything alone. I don't have funding and I can't afford to hire. Is this the point where you quit your day job, or am I just not cut out for this?",
+    "label": "Entrepreneurship & Startups"
+  },
+  {
+    "text": "I have an idea for an app and everyone I show it to says it's great, but nobody actually pays me. Does that mean the idea is bad or just that I'm bad at validating it?",
+    "label": "Entrepreneurship & Startups"
+  },
+  {
+    "text": "My startup just got our first term sheet from a VC and I'm terrified of messing this up. The valuation is lower than what my advisor told me to expect, and they're asking for a board seat plus certain approval rights over future fundraising. I've heard horror stories about founders giving up control and then getting pushed out. My cofounder and I have a 50/50 split which I now realize might be a red flag to investors. Should I push back on the board seat, or is that standard enough that refusing looks amateurish? I could use some perspective on which terms are actually worth fighting for versus which are just noise.",
+    "label": "Entrepreneurship & Startups"
+  },
+  {
+    "text": "how to conduct exit interview",
+    "label": "Management & Strategy & Human Resources"
+  },
+  {
+    "text": "What should I ask in a job interview as the candidate?",
+    "label": "Management & Strategy & Human Resources"
+  },
+  {
+    "text": "Two of my best engineers just gave notice and I think it's because of the new sprint process we rolled out. I'm the engineering manager and upper management loves the metrics. How do I push back on a process that's hurting retention without sounding like I'm defending low productivity?",
+    "label": "Management & Strategy & Human Resources"
+  },
+  {
+    "text": "I'm managing a team where one person does great work but constantly takes credit for the team's success in meetings. Morale is dropping. How do you address someone's ego without demoralizing them?",
+    "label": "Management & Strategy & Human Resources"
+  },
+  {
+    "text": "We're a company of about 80 people and we've never had a formal HR function, so I've been doing performance reviews on top of my real job. The CEO wants a standardized review process and clear promotion criteria, but the founders are afraid it'll make the company feel corporate and slow. I keep hearing from employees that reviews feel random and that raises depend on who you're friends with. I don't have an HR background and I don't know where to start. Should I bring in an external consultant, or is there a lightweight framework we can implement ourselves? Also, how do you design a process that's fair but doesn't drown managers in paperwork?",
+    "label": "Management & Strategy & Human Resources"
+  },
+  {
+    "text": "motion to dismiss what happens",
+    "label": "Criminal & Civil Law"
+  },
+  {
+    "text": "Can the police search my phone without a warrant?",
+    "label": "Criminal & Civil Law"
+  },
+  {
+    "text": "I was hit by a delivery driver who ran a red light and their insurance is offering a settlement that seems low. I have medical bills and lost wages. Should I take the offer or hire a lawyer, and how much does that actually cost upfront?",
+    "label": "Criminal & Civil Law"
+  },
+  {
+    "text": "I got a jury duty summons but I have a legitimate medical condition and my doctor says I can't sit through a trial. Do I need a note from her or is there a specific form I have to fill out?",
+    "label": "Criminal & Civil Law"
+  },
+  {
+    "text": "My landlord is trying to evict me over a noise complaint even though I've never received any written warnings, and my lease is paid up through next year. The notice they gave me looks wrong and doesn't reference the lease terms at all. I called the courthouse and they said an eviction case hasn't actually been filed yet. I'm wondering if this is just a scare tactic or if they can legally start an eviction over something this vague. Should I wait for them to file, or can I take some kind of action first? I can't afford a lawyer but I don't want to lose my housing over a misunderstanding.",
+    "label": "Criminal & Civil Law"
+  },
+  {
+    "text": "at will employment what does it mean",
+    "label": "Labor, Family & Contract Law"
+  },
+  {
+    "text": "Can my employer change my schedule without notice?",
+    "label": "Labor, Family & Contract Law"
+  },
+  {
+    "text": "My ex and I share custody of our kids and they keep scheduling things during my parenting time without asking. I want to set boundaries but I also don't want to be the difficult coparent. What's the best way to handle this without going back to court?",
+    "label": "Labor, Family & Contract Law"
+  },
+  {
+    "text": "I signed a non-compete when I started and now I'm leaving for a competitor. The agreement says no competing for two years in the whole state. Do these actually hold up in court these days?",
+    "label": "Labor, Family & Contract Law"
+  },
+  {
+    "text": "I'm a freelancer and a client hasn't paid my last three invoices even though the work is delivered and they've confirmed they're happy with it. My contract has a late payment clause but no interest provision, so there's not much teeth to it. They keep saying the check is in the mail and it's been two months. I'm considering small claims court but I don't know if it's worth it for the amount, which is about $4,000. I've also heard that sending a formal demand letter sometimes shakes things loose without filing anything. Do I need to threaten legal action first, or is there a softer escalation that usually works? Also, am I still allowed to use their materials for my portfolio while they owe me money?",
+    "label": "Labor, Family & Contract Law"
+  },
+  {
+    "text": "gdpr data breach notification",
+    "label": "Corporate, Regulatory & International Law"
+  },
+  {
+    "text": "What's the difference between a C corp and an S corp?",
+    "label": "Corporate, Regulatory & International Law"
+  },
+  {
+    "text": "My startup wants to sell to a customer in the EU and they're requiring us to sign a data processing agreement. We're a small US company and we've never dealt with this. Are we even obligated to sign their DPA, or does GDPR only apply to big companies?",
+    "label": "Corporate, Regulatory & International Law"
+  },
+  {
+    "text": "I'm building a mobile app and I want to understand whether the app store's requirements around privacy labels count as legally binding or if they're just platform policy. Does anything about the way we collect data create actual regulatory exposure?",
+    "label": "Corporate, Regulatory & International Law"
+  },
+  {
+    "text": "I run a small cosmetics company and we're getting pressure from our distributor in another country to rebrand the products they sell because the trademark is already taken there. We thought our US registration covered everything, which it clearly doesn't. I've now learned that trademark protection is territorial, but I'm getting conflicting advice about whether to do an international application through the Madrid Protocol or file directly in each country. We only sell in about four countries so far, so I don't want to pay for more protection than we need. How do companies decide which countries are actually worth registering in? Also, is it too late now that someone else already has the name in that market?",
+    "label": "Corporate, Regulatory & International Law"
+  },
+  {
+    "text": "can I record a conversation legally",
+    "label": "General Law (misc.)"
+  },
+  {
+    "text": "What does 'without prejudice' actually mean?",
+    "label": "General Law (misc.)"
+  },
+  {
+    "text": "I keep getting texts from a debt collector for a debt that I'm pretty sure isn't mine. I've asked them to stop and they keep calling. Is there a legal way to make them verify the debt or leave me alone?",
+    "label": "General Law (misc.)"
+  },
+  {
+    "text": "My neighbor built a fence a few feet over the property line and I only just noticed. I want to handle it without a big legal fight. Do property line disputes usually end up in court, or is there a normal first step people take?",
+    "label": "General Law (misc.)"
+  },
+  {
+    "text": "I'm writing a will for my family and I keep getting conflicting advice about whether I need a lawyer or if an online service is fine. My situation isn't complicated — a house, a retirement account, and a couple of bank accounts — but I have a minor child, so I need to name a guardian. I've read horror stories about DIY wills causing family fights, but a lawyer in my area quoted me almost a thousand dollars. Is that a reasonable price, and what actually goes wrong with homemade documents? I'm trying to figure out if this is one of those things where paying for professional help is genuinely worth it or if I'm being oversold.",
+    "label": "General Law (misc.)"
+  },
+  {
+    "text": "tilt queue burnout",
+    "label": "Game"
+  },
+  {
+    "text": "What's a good hero for beginners in Dota 2?",
+    "label": "Game"
+  },
+  {
+    "text": "I'm designing a roguelike and I can't decide between permadeath with full resets or a system that lets you carry over a small amount of progress. I'm worried full permadeath will frustrate players but meta progression might dilute the tension. How do other games in the genre handle this balance?",
+    "label": "Game"
+  },
+  {
+    "text": "My group of friends has board game night every week, but we've been stuck on the same three games for months because nobody wants to learn new rules, and I'm the one always pushing variety. Last week I brought a cooperative game and one player spent the whole time telling everyone what to do, which killed the fun. How do you introduce new games to a resistant group, and how do you handle the alpha gamer problem without making it awkward?",
+    "label": "Game"
+  },
+  {
+    "text": "How does matchmaking rating actually work in competitive shooters?",
+    "label": "Game"
+  },
+  {
+    "text": "how to write a three act structure",
+    "label": "Film"
+  },
+  {
+    "text": "What makes a movie's pacing feel too slow or too fast?",
+    "label": "Film"
+  },
+  {
+    "text": "I'm a beginner trying to shoot a short film with just my phone and natural light. I want it to look less like a home video. What are the cheapest things that make the biggest difference in production quality?",
+    "label": "Film"
+  },
+  {
+    "text": "I'm trying to analyze why the final scene of a movie I watched felt so emotionally powerful, and I want to learn how to do that kind of analysis better. Are there good resources or frameworks for film criticism?",
+    "label": "Film"
+  },
+  {
+    "text": "I'm a film student working on a thesis about how sound design changes the meaning of a scene, and I'm struggling to pick a methodology. I've been watching the same scene from a horror film with the sound on and off and the difference is huge, but my advisor says I need measurable criteria instead of just vibes. I'm thinking of comparing how silence, score, and diegetic sound are used across three scenes in different genres. Is there an established framework for this kind of analysis, or am I overcomplicating it?",
+    "label": "Film"
+  },
+  {
+    "text": "daily scale practice",
+    "label": "Music"
+  },
+  {
+    "text": "How do you write a melody that doesn't sound repetitive?",
+    "label": "Music"
+  },
+  {
+    "text": "I'm trying to learn music production and every tutorial assumes I already know what compression and EQ actually do. I understand the concept but I have no ear for it yet. How do you train your ears to hear what these effects are doing?",
+    "label": "Music"
+  },
+  {
+    "text": "My band is recording our first EP in a home studio and the drum tracks sound muddy next to everything else. I've tried moving the mics but it's still not great. Is this a room treatment problem or should I focus on how I'm compressing the mix?",
+    "label": "Music"
+  },
+  {
+    "text": "I'm a self taught guitarist and I've been stuck in a plateau for like two years now. I can play all the basic chords and some barre chords, and I know the minor pentatonic scale, but every solo I improvise sounds like the same licks over and over. I've tried learning songs by ear and I can usually get the melody but I can't figure out what the guitarists are doing underneath. My theory knowledge is basically zero. Is now the time to actually learn music theory, or is there a more practical way to break out of this? Also, how do people make practice actually translate to playing with a band, because when I jam with friends I freeze up completely?",
+    "label": "Music"
+  },
+  {
+    "text": "show don't tell examples",
+    "label": "Literature"
+  },
+  {
+    "text": "How do you write a compelling antagonist?",
+    "label": "Literature"
+  },
+  {
+    "text": "I used to devour novels as a teenager but now I can't get through a chapter — what's a good strategy for rebuilding the attention span for long books?",
+    "label": "Literature"
+  },
+  {
+    "text": "I want to self-publish a novel and I keep going back and forth between traditional publishing and going indie. I know the odds of getting an agent are low, but I also hear indie authors complain about doing all their own marketing. What's the actual reality of both paths right now?",
+    "label": "Literature"
+  },
+  {
+    "text": "I'm writing a historical novel set in the 1930s and I keep getting caught up in research rabbit holes instead of actually writing. I spent a whole weekend reading about period-accurate food prices, which is probably not something readers care about, but I'm terrified of making an obvious anachronism that gets called out. My writing group told me to just write the draft and fix details later, but I can't stop fact checking. Is there a good way to compartmentalize research so it doesn't kill my momentum? Also, how do authors decide which details are worth getting exactly right versus which ones readers will never notice? I'd love to hear from people who've actually finished historical fiction and survived.",
+    "label": "Literature"
+  },
+  {
+    "text": "color mixing skin tones",
+    "label": "Painting"
+  },
+  {
+    "text": "What's the difference between watercolor and gouache?",
+    "label": "Painting"
+  },
+  {
+    "text": "I'm learning to draw digitally and my line art always looks stiff compared to artists I follow, even with different brushes and stabilizers — is the problem my sketching fundamentals or how I'm using the software?",
+    "label": "Painting"
+  },
+  {
+    "text": "I've been painting for a few years and I'm stuck at photorealism because my proportions always end up slightly off. I've been told to try the grid method but it feels like cheating. Is using grids or tracing acceptable for improving accuracy?",
+    "label": "Painting"
+  },
+  {
+    "text": "I'm trying to paint a sunset with acrylics and every attempt ends up looking muddy instead of glowing. I know the issue is probably that I'm mixing too many colors together and losing saturation, but I can't figure out the right way to build up the sky. I've watched tutorials where people use wet on wet blending and mine just turns into a brown mess. Do I need to work faster, use more water, or plan the color zones before I even start? Also, is it better to layer dark to light or light to dark with acrylics? I'm getting frustrated enough that I'm tempted to just switch to a different medium entirely.",
+    "label": "Painting"
   }
 ]
