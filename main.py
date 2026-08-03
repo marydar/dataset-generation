@@ -6,7 +6,7 @@ from create_hf_dataset import create_dataset
 
 
 RAW_FOLDER = Path("raw")
-HF_DATASET = "maryamdar/topic-classification-dataset"
+HF_DATASET = "maryamdar/topic-classification-dataset-v2"
 
 
 def main():

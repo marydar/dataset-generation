@@ -11,7 +11,19 @@ def create_dataset(
     # Load JSON file
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
+        
+    required_columns = {
+        "text",
+        "parent_label",
+        "label",
+        "generator_model",
+        "source",
+    }
 
+    missing = required_columns - set(data[0].keys())
+
+    if missing:
+        raise ValueError(f"Missing columns: {missing}")
     # Convert to Hugging Face Dataset
     dataset = Dataset.from_list(data)
 
